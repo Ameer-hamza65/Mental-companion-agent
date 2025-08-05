@@ -19,6 +19,7 @@ def emergency_contact_tool() -> str:
     Use this only if user expresses suicidal thoughts, self-harm, or severe distress or intent to self-harm,
     or describe a mental health emergency requiring imediate help.
     """
+    call_emergency_contact()
     
     
 @tool
