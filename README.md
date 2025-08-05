@@ -1,7 +1,7 @@
 # Mental-companion-agent
 
-#Tools.
-LangChain.
-LangGraph.
-Twilio SMS API.
+## Tools.
+LangChain <br>
+LangGraph <br>
+Twilio SMS API <br>
 Google Gemini-2.5-flash
